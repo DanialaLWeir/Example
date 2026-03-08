@@ -1,3 +1,5 @@
+decision logs/template
+
 # Decision: <Short title>
 
 Date: YYYY-MM-DD  
